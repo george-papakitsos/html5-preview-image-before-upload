@@ -1,0 +1,40 @@
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html {
+	font-family: Arial;
+	font-size: 14px;
+	color: #555555;
+	height: 100%;
+}
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+input {
+	font-size: 14px;
+	background-color: #ffffff;
+	color: #555555;
+	border: 1px solid #999999;
+	padding: 0px 5px;
+	height: 25px;
+}
+input[type=submit] {
+	background-color: #f0f0f0;
+}
+.panel {
+	border: 7px solid #a9c9fd;
+	padding: 10px;
+}
+.fileUploadPreview {
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 10px;
+	padding: 10px;
+	border: 1px solid #a9c9fd;
+	background-color: #ffffff;
+	margin-top: 10px;
+}
