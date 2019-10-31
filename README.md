@@ -7,7 +7,7 @@ The Module requires:
 - Browser with HTML5 support
 - jQuery
 
-Demo: http://papakitsos.gr/html5-preview-image-before-upload/
+Demo: https://preview-image.papakitsos.gr/
 
 Options
 ---------
